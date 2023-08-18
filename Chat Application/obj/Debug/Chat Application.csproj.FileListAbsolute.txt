@@ -1,0 +1,9 @@
+c:\users\el mahdi pc\documents\visual studio 2012\Projects\Chat Application\Chat Application\bin\Debug\Chat Application.exe.config
+c:\users\el mahdi pc\documents\visual studio 2012\Projects\Chat Application\Chat Application\obj\Debug\Chat Application.csprojResolveAssemblyReference.cache
+c:\users\el mahdi pc\documents\visual studio 2012\Projects\Chat Application\Chat Application\obj\Debug\Chat_Application.Form1.resources
+c:\users\el mahdi pc\documents\visual studio 2012\Projects\Chat Application\Chat Application\obj\Debug\Chat_Application.Properties.Resources.resources
+c:\users\el mahdi pc\documents\visual studio 2012\Projects\Chat Application\Chat Application\obj\Debug\Chat Application.csproj.GenerateResource.Cache
+c:\users\el mahdi pc\documents\visual studio 2012\Projects\Chat Application\Chat Application\bin\Debug\Chat Application.exe
+c:\users\el mahdi pc\documents\visual studio 2012\Projects\Chat Application\Chat Application\bin\Debug\Chat Application.pdb
+c:\users\el mahdi pc\documents\visual studio 2012\Projects\Chat Application\Chat Application\obj\Debug\Chat Application.exe
+c:\users\el mahdi pc\documents\visual studio 2012\Projects\Chat Application\Chat Application\obj\Debug\Chat Application.pdb
